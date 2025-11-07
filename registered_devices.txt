@@ -2,8 +2,8 @@
   {
     "hostName": "ESP Devices",
     "firmwareVersion": "1.0.0",
-    "macAddress": "88:57:21:78:D7:6C",
-    "wifiSignalStrength": -61,
-    "ipAddress": "192.168.1.17"
+    "macAddress": "00:00:00:00:00:00",
+    "wifiSignalStrength": 0,
+    "ipAddress": "192.168.1.177"
   }
 ]
